@@ -1,0 +1,18 @@
+alert("halooo bebeb selamaatt cianggg")
+alert('harus diisi yaaaa terus jangan tekan cancel yaa nanti cantiknya ilang aminnn')
+
+alert('hmmmm anuuuuu hmmmmm emmmmmm')
+alert(' i just wanna say')
+alert( 'im sorry sayanggg kemarin aku banyak tingkahhh maapin yaa jadi ga chatan dehhh hehhehehehe')
+prompt(' maapinn yaa sayangg masa cowok seganteng aku ga dimaapin sihhhh')
+alert('okeii sayang makacihh kalo dimaapinn ummmwahhhhhh mwahhhhh')
+
+let kata = prompt('oiyaaaaa plisss kisss akuu dongggg dah laama ga dikiss')
+alert('yey makacihh cayangkuuu')
+alert('oiyaaa anjing kakakku kirim salam. katanya selamat natal yaa')
+prompt('bilang makacihh sama anjing kakkku biar dikasih kado natal tapi dalam mimpi')
+alert(' nanti aku bilang samanya yaaaa')
+alert('makacihh caayangggkuu kangen kali aku samamuuuu')
+prompt('i love youu sayangggg')
+alert('abis dari sini langsung kirim pap yyaaaa yayayyaya lagi kangen banget nichhh')
+alert('sekiannn n thank youu byee byee bebebb')
